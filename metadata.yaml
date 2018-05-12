@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44222#Those-Times-And-These
 gutenberg_issued: '2013-11-18'
 gutenberg_type: Text
 identifiers:
