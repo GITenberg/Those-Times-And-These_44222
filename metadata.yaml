@@ -1,0 +1,33 @@
+_repo: Those-Times-And-These_44222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: Ex-fightin' Billy -- And there was light -- Mr. Felsburg gets even
+  -- The garb of men -- The cure for lonesomeness -- The family tree -- Hark! from
+  the tombs -- Cinnamon seed and sandy bottom -- A kiss for kindness -- The start
+  of a dream.
+title: Those Times and These
+url: http://www.gutenberg.org/ebooks/44222
